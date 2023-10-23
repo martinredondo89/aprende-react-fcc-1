@@ -7,6 +7,7 @@ function Testimonio() {
         className='imagen-testimonio'
         src={require('../imagenes/testimonio-emma.png')}
         alt='Foto de Emma' />
+        
     </div>
   )
 }
