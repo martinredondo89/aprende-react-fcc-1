@@ -21,5 +21,19 @@
 }
 
 .nombre-testimonio {
-    font-size: 1;
+    /*Tamanio relativo al contenedor raiz*/
+    font-size: 1.3rem;
+}
+
+.cargo-testimonio {
+    /*Tamanio relativo al contenedor raiz*/
+    font-size: 1.3rem;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+
+.texto-testimonio {
+    /*Tamanio relativo al contenedor raiz*/
+    font-size: 1.1rem;
+    text-align: justify;
 }
